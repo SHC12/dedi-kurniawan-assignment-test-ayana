@@ -8,6 +8,7 @@ Ayana Movies is a Flutter application that showcases movie and TV content with a
 - **Dart SDK:** 3.8.1
 - **UI Reference:** https://www.behance.net/gallery/198896501/Movie-Streaming-App-UI-Kit
 - **State Management:** BLoC (via `flutter_bloc` + `equatable`)
+- **APK:** https://drive.google.com/file/d/1wL-ncbJZIEhbP5NBItpW2vL9YBeYylwz/view?usp=sharing
 
 ## Requirements
 
