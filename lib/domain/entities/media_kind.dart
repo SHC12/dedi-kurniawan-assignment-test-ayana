@@ -1,0 +1,1 @@
+enum MediaKind { movie, tv }
